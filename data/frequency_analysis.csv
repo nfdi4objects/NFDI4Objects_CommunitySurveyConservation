@@ -1,0 +1,201 @@
+question_id,topic_block,question_text,answer_id,answer_text,answer_source,answer_count,count_valid,percent_total,percent_valid,condition
+G01Q01,allgemeine Informationen,"Welche der angegebenen Kategorien entspricht der Einrichtung, an der Sie tätig sind? ",G01Q01A01,Museum,predefined,77,240,"32,08 %","32,08 %",
+G01Q01,allgemeine Informationen,"Welche der angegebenen Kategorien entspricht der Einrichtung, an der Sie tätig sind? ",G01Q01A02,Universität/Hochschule,predefined,27,240,"11,25 %","11,25 %",
+G01Q01,allgemeine Informationen,"Welche der angegebenen Kategorien entspricht der Einrichtung, an der Sie tätig sind? ",G01Q01A03,außeruniversitäre Forschungseinrichtung,predefined,9,240,"3,75 %","3,75 %",
+G01Q01,allgemeine Informationen,"Welche der angegebenen Kategorien entspricht der Einrichtung, an der Sie tätig sind? ",G01Q01A04,Denkmalfachbehörde,predefined,29,240,"12,08 %","12,08 %",
+G01Q01,allgemeine Informationen,"Welche der angegebenen Kategorien entspricht der Einrichtung, an der Sie tätig sind? ",G01Q01A05,Freiberufliche(r) Restaurator*in,predefined,77,240,"32,08 %","32,08 %",
+G01Q01,allgemeine Informationen,"Welche der angegebenen Kategorien entspricht der Einrichtung, an der Sie tätig sind? ",G01Q01A06,Sonstiges,predefined,21,240,"8,75 %","8,75 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A01,Archäologie/Bodendenkmalpflege,predefined,53,237,"22,08 %","22,36 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A02,Textil,predefined,23,237,"9,58 %","9,70 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A03,Gemälde,predefined,54,237,"22,50 %","22,78 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A04,Ethnografische Objekte/ Volks- und Völkerkunde,predefined,15,237,"6,25 %","6,33 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A05,Fotografie/ Film/ Audiovisuelles Kulturgut,predefined,13,237,"5,42 %","5,49 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A06,"Grafik, Archiv- und Bibliotheksgut",predefined,31,237,"12,92 %","13,08 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A07,Industrielles Kulturgut,predefined,16,237,"6,67 %","6,75 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A08,Kulturgut der Moderne ,predefined,39,237,"16,25 %","16,46 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A09,Kunsthandwerkliche Objekte,predefined,39,237,"16,25 %","16,46 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A10,Leder und artverwandte Materialien,predefined,14,237,"5,83 %","5,91 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A11,Möbel und Holzobjekte,predefined,48,237,"20,00 %","20,25 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A12,Musikinstrumente,predefined,12,237,"5,00 %","5,06 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A13,Steinkonservierung,predefined,33,237,"13,75 %","13,92 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A14,Wandmalerei und Architekturoberflächen,predefined,42,237,"17,50 %","17,72 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A15,Polychrome Objekte,comment,10,237,"4,17 %","4,22 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A16,Sonstiges,predefined,25,237,"10,42 %","10,55 %",
+G01Q02,allgemeine Informationen,In welcher spezifischen Fachdisziplin sind Sie tätig? ,G01Q02A17,[keine Antwort],N/A,3,N/A,"1,25 %",N/A,
+G01Q03,allgemeine Informationen,Wie schätzen Sie die Bedeutung von Forschungsdatenmanagement (FDM) in Ihrer spezifischen Arbeit ein? ,G01Q03A01,1 – total unwichtig,predefined,9,212,"3,75 %","4,25 %",
+G01Q03,allgemeine Informationen,Wie schätzen Sie die Bedeutung von Forschungsdatenmanagement (FDM) in Ihrer spezifischen Arbeit ein? ,G01Q03A02,2 – unwichtig,predefined,23,212,"9,58 %","10,85 %",
+G01Q03,allgemeine Informationen,Wie schätzen Sie die Bedeutung von Forschungsdatenmanagement (FDM) in Ihrer spezifischen Arbeit ein? ,G01Q03A03,3 – neutral,predefined,49,212,"20,42 %","23,11 %",
+G01Q03,allgemeine Informationen,Wie schätzen Sie die Bedeutung von Forschungsdatenmanagement (FDM) in Ihrer spezifischen Arbeit ein? ,G01Q03A04,4 – wichtig,predefined,70,212,"29,17 %","33,02 %",
+G01Q03,allgemeine Informationen,Wie schätzen Sie die Bedeutung von Forschungsdatenmanagement (FDM) in Ihrer spezifischen Arbeit ein? ,G01Q03A05,5 – sehr wichtig,predefined,61,212,"25,42 %","28,77 %",
+G01Q03,allgemeine Informationen,Wie schätzen Sie die Bedeutung von Forschungsdatenmanagement (FDM) in Ihrer spezifischen Arbeit ein? ,G01Q03A06,[keine Antwort],N/A,28,N/A,"11,67 %",N/A,
+G02Q01,Datenerhebung,Dokumentieren Sie Ihre durchgeführten Konservierungs-/Restaurierungsmaßnahmen?,G02Q01A01,Ja – digital,predefined,94,218,"39,17 %","43,12 %",
+G02Q01,Datenerhebung,Dokumentieren Sie Ihre durchgeführten Konservierungs-/Restaurierungsmaßnahmen?,G02Q01A02,Ja – analog,predefined,5,218,"2,08 %","2,29 %",
+G02Q01,Datenerhebung,Dokumentieren Sie Ihre durchgeführten Konservierungs-/Restaurierungsmaßnahmen?,G02Q01A03,Ja – analog und digital,predefined,117,218,"48,75 %","53,67 %",
+G02Q01,Datenerhebung,Dokumentieren Sie Ihre durchgeführten Konservierungs-/Restaurierungsmaßnahmen?,G02Q01A04,nein,predefined,2,218,"0,83 %","0,92 %",
+G02Q01,Datenerhebung,Dokumentieren Sie Ihre durchgeführten Konservierungs-/Restaurierungsmaßnahmen?,G02Q01A05,[keine Antwort],predefined,22,N/A,"9,17 %",N/A,
+G02Q02,Datenerhebung,Welche Art von digitalen Daten entstehen typischerweise in Ihrem Arbeitsalltag? ,G02Q02A01,Texte/Berichte,predefined,203,212,"84,58 %","95,75 %",
+G02Q02,Datenerhebung,Welche Art von digitalen Daten entstehen typischerweise in Ihrem Arbeitsalltag? ,G02Q02A02,Fotografien,predefined,210,212,"87,50 %","99,06 %",
+G02Q02,Datenerhebung,Welche Art von digitalen Daten entstehen typischerweise in Ihrem Arbeitsalltag? ,G02Q02A03,Videos,predefined,26,212,"10,83 %","12,26 %",
+G02Q02,Datenerhebung,Welche Art von digitalen Daten entstehen typischerweise in Ihrem Arbeitsalltag? ,G02Q02A04,Zeichnungen,predefined,87,212,"36,25 %","41,04 %",
+G02Q02,Datenerhebung,Welche Art von digitalen Daten entstehen typischerweise in Ihrem Arbeitsalltag? ,G02Q02A05,Kartierungen,predefined,155,212,"64,58 %","73,11 %",
+G02Q02,Datenerhebung,Welche Art von digitalen Daten entstehen typischerweise in Ihrem Arbeitsalltag? ,G02Q02A06,Analysedaten/Messdaten,comment,10,212,"4,17 %","4,72 %",
+G02Q02,Datenerhebung,Welche Art von digitalen Daten entstehen typischerweise in Ihrem Arbeitsalltag? ,G02Q02A07,3D – Daten,comment,4,212,"1,67 %","1,89 %",
+G02Q02,Datenerhebung,Welche Art von digitalen Daten entstehen typischerweise in Ihrem Arbeitsalltag? ,G02Q02A08,Sonstiges,predefined,11,212,"4,58 %","5,19 %",
+G02Q02,Datenerhebung,Welche Art von digitalen Daten entstehen typischerweise in Ihrem Arbeitsalltag? ,G02Q02A09,[keine Antwort],N/A,28,N/A,"11,67 %",N/A,
+G02Q03,Datenerhebung,Welche dieser Daten werden (potenziell) als Forschungsdaten genutzt bzw. ausgetauscht?,G02Q03A01,Texte/Berichte,predefined,162,208,"67,50 %","77,88 %",
+G02Q03,Datenerhebung,Welche dieser Daten werden (potenziell) als Forschungsdaten genutzt bzw. ausgetauscht?,G02Q03A02,Fotografien,predefined,155,208,"64,58 %","74,52 %",
+G02Q03,Datenerhebung,Welche dieser Daten werden (potenziell) als Forschungsdaten genutzt bzw. ausgetauscht?,G02Q03A03,Videos,predefined,13,208,"5,42 %","6,25 %",
+G02Q03,Datenerhebung,Welche dieser Daten werden (potenziell) als Forschungsdaten genutzt bzw. ausgetauscht?,G02Q03A04,Zeichnungen,predefined,56,208,"23,33 %","26,92 %",
+G02Q03,Datenerhebung,Welche dieser Daten werden (potenziell) als Forschungsdaten genutzt bzw. ausgetauscht?,G02Q03A05,Kartierungen,comment,2,208,"0,83 %","0,96 %",
+G02Q03,Datenerhebung,Welche dieser Daten werden (potenziell) als Forschungsdaten genutzt bzw. ausgetauscht?,G02Q03A06,3D – Daten,comment,4,208,"1,67 %","1,92 %",
+G02Q03,Datenerhebung,Welche dieser Daten werden (potenziell) als Forschungsdaten genutzt bzw. ausgetauscht?,G02Q03A07,Analysedaten/Messdaten,predefined,99,208,"41,25 %","47,60 %",
+G02Q03,Datenerhebung,Welche dieser Daten werden (potenziell) als Forschungsdaten genutzt bzw. ausgetauscht?,G02Q03A08,Sonstiges,predefined,11,208,"4,58 %","5,29 %",
+G02Q03,Datenerhebung,Welche dieser Daten werden (potenziell) als Forschungsdaten genutzt bzw. ausgetauscht?,G02Q03A09,[keine Antwort],N/A,32,N/A,"13,33 %",N/A,
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A01,Microsoft Word,predefined,173,201,"72,08 %","86,07 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A02,Microsoft Excel,predefined,115,201,"47,92 %","57,21 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A03,Microsoft Access,predefined,15,201,"6,25 %","7,46 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A04,Adobe Photoshop,predefined,99,201,"41,25 %","49,25 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A05,Adobe Illustrator,comment,5,201,"2,08 %","2,49 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A06,GIMP,predefined,49,201,"20,42 %","24,38 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A07,Affinity Photo,comment,7,201,"2,92 %","3,48 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A08,metigo MAP,comment,16,201,"6,67 %","7,96 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A09,Datenbanksystem,comment,28,201,"11,67 %","13,93 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A10,Stift und Papier (analog),predefined,98,201,"40,83 %","48,76 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A11,Sonstiges,predefined,24,201,"10,00 %","11,94 %",
+G02Q04,Datenerhebung,Welche Programme nutzen Sie typischerweise für die Dokumentation/Erfassung/Bearbeitung Ihrer Arbeit? ,G02Q04A12,[keine Antwort],N/A,39,N/A,"16,25 %",N/A,
+G02Q05,Datenerhebung,"Gibt es ein zentrales Datenbank- oder Fachinformationssystem innerhalb Ihrer Einrichtung, in das Sie ihre restaurierungsspezifischen Daten integrieren?",G02Q05A01,Ja,predefined,101,200,"42,08 %","50,50 %",
+G02Q05,Datenerhebung,"Gibt es ein zentrales Datenbank- oder Fachinformationssystem innerhalb Ihrer Einrichtung, in das Sie ihre restaurierungsspezifischen Daten integrieren?",G02Q05A02,Nein,predefined,88,200,"36,67 %","44,00 %",
+G02Q05,Datenerhebung,"Gibt es ein zentrales Datenbank- oder Fachinformationssystem innerhalb Ihrer Einrichtung, in das Sie ihre restaurierungsspezifischen Daten integrieren?",G02Q05A03,Weiß ich nicht,predefined,11,200,"4,58 %","5,50 %",
+G02Q05,Datenerhebung,"Gibt es ein zentrales Datenbank- oder Fachinformationssystem innerhalb Ihrer Einrichtung, in das Sie ihre restaurierungsspezifischen Daten integrieren?",G02Q05A04,[keine Antwort],N/A,40,N/A,"16,67 %",N/A,
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A01,Easydb,predefined,6,95,"5,94 %","6,32 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A02,MuseumPlus,predefined,17,95,"16,83 %","17,89 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A03,Access-Datenbank ,predefined,1,95,"0,99 %","1,05 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A04,eigenes Fachinformationssystem/ Datenbank,predefined,23,95,"22,77 %","24,21 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A05,The Museum System (TMS) ,predefined,9,95,"8,91 %","9,47 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A06,ImdasPro,predefined,6,95,"5,94 %","6,32 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A07,RestauroBook ,predefined,3,95,"2,97 %","3,16 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A08,FAUST,comment,11,95,"10,89 %","11,58 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A09,BeeCollect Professionell,comment,6,95,"5,94 %","6,32 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A10,Robotron*Daphne,comment,4,95,"3,96 %","4,21 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A11,KlaraDelos,comment,2,95,"1,98 %","2,11 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A12,KuniWeb gbv,comment,1,95,"0,99 %","1,05 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A13,MuseumDigital,comment,1,95,"0,99 %","1,05 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A14,MonArch,comment,1,95,"0,99 %","1,05 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A15,Primus,comment,1,95,"0,99 %","1,05 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A16,Sapikon,comment,1,95,"0,99 %","1,05 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A17,Rascal ,comment,1,95,"0,99 %","1,05 %",„G02Q05=G02Q05A01“
+G02Q06,Datenerhebung,Welches Datenbanksystem wird an Ihrere Einrichtung für die Erfassung restaurierungsspezifischer Daten verwendet?,G02Q06A18,[keine Antwort],N/A,6,N/A,"5,94 %",N/A,„G02Q05=G02Q05A01“
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A01,Objektansprache/Titel,predefined,163,183,"67,92 %","89,07 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A02,Inventarnummer,predefined,156,183,"65,00 %","85,25 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A03,"Objekttyp (z.B. Gemälde, Gefäß, Werkzeug, Schuh, etc.)",predefined,161,183,"67,08 %","87,98 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A04,Objektmaterial(ien),predefined,171,183,"71,25 %","93,44 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A05,Datierung,predefined,154,183,"64,17 %","84,15 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A06,Fundort/Herkunft,predefined,136,183,"56,67 %","74,32 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A07,Eigentümer*in,predefined,126,183,"52,50 %","68,85 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A08,"Physischer Objektzustand (z.B. Vollständigkeit, Stabilität, Maße, etc.)",predefined,170,183,"70,83 %","92,90 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A09,"Schadensphänomene (z.B. fragmentiert, korrodiert, verfärbt, etc.)",predefined,170,183,"70,83 %","92,90 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A10,"Schadensursachen (z.B. Bodenlagerung, Transport, Wasserschaden, etc.)",predefined,132,183,"55,00 %","72,13 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A11,Durchgeführte Konservierungs- und Restaurierungsmethoden,predefined,175,183,"72,92 %","95,63 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A12,Verwendete Konservierungs- und Restaurierungsmaterialien und Werkzeuge,predefined,169,183,"70,42 %","92,35 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A13,Zuständige(r) Restaurator*in,predefined,155,183,"64,58 %","84,70 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A14,Bearbeitungszeitraum,predefined,143,183,"59,58 %","78,14 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A15,"Bisherige Lagerung des Objektes (z.B. Grabungsfrischer Fund, Objekt aus der Depotlagerung, Fremdobjekt/Leihverkehr, Klimatisierte Lagerung, etc.)",predefined,103,183,"42,92 %","56,28 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A16,Herstellungstechnik/Verzierungstechnik,predefined,126,183,"52,50 %","68,85 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A17,Lagerungsbedingungen/-empfehlungen (z.B. bestimmte Klimawerte),predefined,139,183,"57,92 %","75,96 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A18,Sonstiges,predefined,33,183,"13,75 %","18,03 %",
+G02Q07,Datenerhebung,Welche der folgenden Informationen erachten Sie als essentiellen Bestandteil Ihrer Konservierungs- und Restaurierungsdokumentationen bzw. Forschungsberichte? ,G02Q07A19,[keine Antwort],N/A,57,N/A,"23,75 %",N/A,
+G03Q01,Datenqualität,Gibt es in Ihrer Einrichtung Schreibanweisungen oder einen Leitfaden für die Erhebung und Verwaltung von Daten in Ihrem direkten Arbeitsbereich? ,G03Q01A01,"Ja, Vorgaben in Bezug auf die Formatierung von Dateien",predefined,49,186,"20,42 %","26,34 %",
+G03Q01,Datenqualität,Gibt es in Ihrer Einrichtung Schreibanweisungen oder einen Leitfaden für die Erhebung und Verwaltung von Daten in Ihrem direkten Arbeitsbereich? ,G03Q01A02,"Ja, Vorgaben in Bezug auf die Ablage von Dateien in internen Systemen",predefined,62,186,"25,83 %","33,33 %",
+G03Q01,Datenqualität,Gibt es in Ihrer Einrichtung Schreibanweisungen oder einen Leitfaden für die Erhebung und Verwaltung von Daten in Ihrem direkten Arbeitsbereich? ,G03Q01A03,"Ja, es gibt ein vorgefertigtes Dokument (Musterprotokoll) für Restaurierungsberichte",predefined,74,186,"30,83 %","39,78 %",
+G03Q01,Datenqualität,Gibt es in Ihrer Einrichtung Schreibanweisungen oder einen Leitfaden für die Erhebung und Verwaltung von Daten in Ihrem direkten Arbeitsbereich? ,G03Q01A04,"Nein, es gibt keine einheitlichen Vorgaben",predefined,71,186,"29,58 %","38,17 %",
+G03Q01,Datenqualität,Gibt es in Ihrer Einrichtung Schreibanweisungen oder einen Leitfaden für die Erhebung und Verwaltung von Daten in Ihrem direkten Arbeitsbereich? ,G03Q01A05,"Nein, aber wir arbeiten aktuell an der Formulierung einheitlicher Vorgaben",predefined,27,186,"11,25 %","14,52 %",
+G03Q01,Datenqualität,Gibt es in Ihrer Einrichtung Schreibanweisungen oder einen Leitfaden für die Erhebung und Verwaltung von Daten in Ihrem direkten Arbeitsbereich? ,G03Q01A06,Sonstiges,predefined,12,186,"5,00 %","6,45 %",
+G03Q01,Datenqualität,Gibt es in Ihrer Einrichtung Schreibanweisungen oder einen Leitfaden für die Erhebung und Verwaltung von Daten in Ihrem direkten Arbeitsbereich? ,G03Q01A07,[keine Antwort],N/A,54,N/A,"22,50 %",N/A,
+G03Q02,Datenqualität,Wer ist in Ihrer Einrichtung für die Verwaltung der Daten zuständig?,G03Q02A01,spezialisiertes Team/Abteilung,predefined,32,185,"13,33 %","17,30 %",
+G03Q02,Datenqualität,Wer ist in Ihrer Einrichtung für die Verwaltung der Daten zuständig?,G03Q02A02,benannte Einzelperson(en) ,predefined,44,185,"18,33 %","23,78 %",
+G03Q02,Datenqualität,Wer ist in Ihrer Einrichtung für die Verwaltung der Daten zuständig?,G03Q02A03,externe Dienstleister,predefined,4,185,"1,67 %","2,16 %",
+G03Q02,Datenqualität,Wer ist in Ihrer Einrichtung für die Verwaltung der Daten zuständig?,G03Q02A04,jede(r) Mitarbeitende,predefined,71,185,"29,58 %","38,38 %",
+G03Q02,Datenqualität,Wer ist in Ihrer Einrichtung für die Verwaltung der Daten zuständig?,G03Q02A05,weiß nicht ,predefined,10,185,"4,17 %","5,41 %",
+G03Q02,Datenqualität,Wer ist in Ihrer Einrichtung für die Verwaltung der Daten zuständig?,G03Q02A06,der/die Teilnehmende alleine ,comment,20,185,"8,33 %","10,81 %",
+G03Q02,Datenqualität,Wer ist in Ihrer Einrichtung für die Verwaltung der Daten zuständig?,G03Q02A07,Sonstiges,predefined,4,185,"1,67 %","2,16 %",
+G03Q02,Datenqualität,Wer ist in Ihrer Einrichtung für die Verwaltung der Daten zuständig?,G03Q02A08,[keine Antwort],N/A,55,N/A,"22,92 %",N/A,
+G03Q03,Datenqualität,"Sind Ihnen allgemeine semantisch-technische Standards (wie z.B. LIDO, SKOS, CIDOC CRM, etc.) im Umgang mit (Forschungs-)Daten bekannt?",G03Q03A01,Ja,predefined,19,185,"7,92 %","10,27 %",
+G03Q03,Datenqualität,"Sind Ihnen allgemeine semantisch-technische Standards (wie z.B. LIDO, SKOS, CIDOC CRM, etc.) im Umgang mit (Forschungs-)Daten bekannt?",G03Q03A02,Nein,predefined,166,185,"69,17 %","89,73 %",
+G03Q03,Datenqualität,"Sind Ihnen allgemeine semantisch-technische Standards (wie z.B. LIDO, SKOS, CIDOC CRM, etc.) im Umgang mit (Forschungs-)Daten bekannt?",G03Q03A03,[keine Antwort],N/A,55,N/A,"22,92 %",N/A,
+G03Q04,Datenqualität,"Arbeiten Sie mit Systemen, die auf einem oder mehreren dieser Standards basieren?",G03Q04A01,"Ja, LIDO",predefined,5,16,"26,32 %","31,25 %",„G03Q03=G03Q03A01“
+G03Q04,Datenqualität,"Arbeiten Sie mit Systemen, die auf einem oder mehreren dieser Standards basieren?",G03Q04A02,"Ja, CIDOC CRM",predefined,3,16,"15,79 %","18,75 %",„G03Q03=G03Q03A01“
+G03Q04,Datenqualität,"Arbeiten Sie mit Systemen, die auf einem oder mehreren dieser Standards basieren?",G03Q04A03,"Ja, SKOS",predefined,0,16,"0,00 %","0,00 %",„G03Q03=G03Q03A01“
+G03Q04,Datenqualität,"Arbeiten Sie mit Systemen, die auf einem oder mehreren dieser Standards basieren?",G03Q04A04,Weiß ich nicht,predefined,5,16,"26,32 %","31,25 %",„G03Q03=G03Q03A01“
+G03Q04,Datenqualität,"Arbeiten Sie mit Systemen, die auf einem oder mehreren dieser Standards basieren?",G03Q04A05,Nein,predefined,4,16,"21,05 %","25,00 %",„G03Q03=G03Q03A01“
+G03Q04,Datenqualität,"Arbeiten Sie mit Systemen, die auf einem oder mehreren dieser Standards basieren?",G03Q04A06,[keine Antwort],N/A,3,N/A,"15,79 %",N/A,„G03Q03=G03Q03A01“
+G03Q05,Datenqualität,Verwenden Sie für die Dokumentation Ihrer Arbeit kontrollierte Vokabulare?,G03Q05A01,Ja,predefined,66,183,"27,50 %","36,07 %",
+G03Q05,Datenqualität,Verwenden Sie für die Dokumentation Ihrer Arbeit kontrollierte Vokabulare?,G03Q05A02,Nein,predefined,85,183,"35,42 %","46,45 %",
+G03Q05,Datenqualität,Verwenden Sie für die Dokumentation Ihrer Arbeit kontrollierte Vokabulare?,G03Q05A03,Weiß ich nicht,predefined,32,183,"13,33 %","17,49 %",
+G03Q05,Datenqualität,Verwenden Sie für die Dokumentation Ihrer Arbeit kontrollierte Vokabulare?,G03Q05A04,[keine Antwort],N/A,57,N/A,"23,75 %",N/A,
+G03Q06,Datenqualität,Welche kontrollierten Vokabulare verwenden Sie?,G03Q06A01,Art and Architecture Thesaurus® (AAT),predefined,4,66,"6,06 %","6,06 %",„G03Q05=G03Q05A01“
+G03Q06,Datenqualität,Welche kontrollierten Vokabulare verwenden Sie?,G03Q06A02,Gemeinsame Normdatei (GND),predefined,6,66,"9,09 %","9,09 %",„G03Q05=G03Q05A01“
+G03Q06,Datenqualität,Welche kontrollierten Vokabulare verwenden Sie?,G03Q06A03,DAIthesaurus,predefined,1,66,"1,52 %","1,52 %",„G03Q05=G03Q05A01“
+G03Q06,Datenqualität,Welche kontrollierten Vokabulare verwenden Sie?,G03Q06A04,Conservation and Art Materials Encyclopedia Online (Cameo),predefined,1,66,"1,52 %","1,52 %",„G03Q05=G03Q05A01“
+G03Q06,Datenqualität,Welche kontrollierten Vokabulare verwenden Sie?,G03Q06A05,European Illustrated Glossary for Conservation Terms of Wall Painting and Architectonic Surfaces (EwaGloss),predefined,5,66,"7,58 %","7,58 %",„G03Q05=G03Q05A01“
+G03Q06,Datenqualität,Welche kontrollierten Vokabulare verwenden Sie?,G03Q06A06,Illustrated glossary on stone deterioration patterns (ICOMOS - ISCS),predefined,7,66,"10,61 %","10,61 %",„G03Q05=G03Q05A01“
+G03Q06,Datenqualität,Welche kontrollierten Vokabulare verwenden Sie?,G03Q06A07,Bamberger Vokabular für historische Architektur,predefined,4,66,"6,06 %","6,06 %",„G03Q05=G03Q05A01“
+G03Q06,Datenqualität,Welche kontrollierten Vokabulare verwenden Sie?,G03Q06A08,"eigenes, unveröffentlichtes Vokabular",predefined,42,66,"17,50 %","63,64 %",„G03Q05=G03Q05A01“
+G03Q06,Datenqualität,Welche kontrollierten Vokabulare verwenden Sie?,G03Q06A09,Sonstiges,predefined,16,66,"6,67 %","24,24 %",„G03Q05=G03Q05A01“
+G04Q01,Veröffentlichung,Haben Sie Ihre Daten schon einmal veröffentlicht?,G04Q01A01,Ja,predefined,68,180,"28,33 %","37,78 %",
+G04Q01,Veröffentlichung,Haben Sie Ihre Daten schon einmal veröffentlicht?,G04Q01A02,Nein,predefined,112,180,"46,67 %","62,22 %",
+G04Q01,Veröffentlichung,Haben Sie Ihre Daten schon einmal veröffentlicht?,G04Q01A03,[keine Antwort],predefined,60,N/A,"25,00 %",N/A,
+G04Q02,Veröffentlichung,In welcher Form veröffentlichen Sie Ihre Daten?,G04Q02A01,nur als schriftliche Zusammenfassungen/Auswertungen in wissenschaftlichen Publikationen,predefined,46,63,"67,65 %","73,02 %",„G04Q01=G04Q01A01“
+G04Q02,Veröffentlichung,In welcher Form veröffentlichen Sie Ihre Daten?,G04Q02A02,"als unbearbeitete ""Rohdaten"" (Berichte, Bilder, Analysedaten) ",predefined,5,63,"7,35 %","7,94 %",„G04Q01=G04Q01A01“
+G04Q02,Veröffentlichung,In welcher Form veröffentlichen Sie Ihre Daten?,G04Q02A03,Beide Formen,predefined,12,63,"17,65 %","19,05 %",„G04Q01=G04Q01A01“
+G04Q02,Veröffentlichung,In welcher Form veröffentlichen Sie Ihre Daten?,G04Q02A04,[keine Antwort],N/A,5,N/A,"7,35 %",N/A,„G04Q01=G04Q01A01“
+G04Q03,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q03A01,"Institutionelle Repositorien:Repositorien, die von Ihrer eigenen Institution öffentlich bereitgestellt werden.",predefined,1,5,20 %,20 %,„G04Q02=G04Q02A02“
+G04Q03,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q03A02,"Fachspezifische Repositorien:Repositorien, die übergreifend gehostet werden und sich auf bestimmte wissenschaftliche Disziplinen oder Fachgebiete konzentrieren.",predefined,1,5,20 %,20 %,„G04Q02=G04Q02A02“
+G04Q03,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q03A03,"Allgemeine Repositorien:Plattformen, die Forschungsdaten unabhängig von der Disziplin aufnehmen, wie beispielsweise Zenodo oder GitHub.",predefined,0,5,0 %,0 %,„G04Q02=G04Q02A02“
+G04Q03,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q03A04,Eigene Infrastruktur,predefined,3,5,60 %,60 %,„G04Q02=G04Q02A02“
+G04Q04,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q04A01,"Institutionelle Repositorien:Repositorien, die von Ihrer eigenen Institution öffentlich bereitgestellt werden.",predefined,14,56,"24,14 %","25,00 %",„G04Q02=G04Q02A01ORG04Q02A03“
+G04Q04,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q04A02,"Fachspezifische Repositorien:Repositorien, die übergreifend gehostet werden und sich auf bestimmte wissenschaftliche Disziplinen oder Fachgebiete konzentrieren.",predefined,11,56,"18,97 %","19,64 %",„G04Q02=G04Q02A01ORG04Q02A03“
+G04Q04,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q04A03,"Allgemeine Repositorien:Plattformen, die Forschungsdaten unabhängig von der Disziplin aufnehmen, wie beispielsweise Zenodo oder GitHub.",predefined,1,56,"1,72 %","1,79 %",„G04Q02=G04Q02A01ORG04Q02A03“
+G04Q04,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q04A04,"Eigene Infrastruktur:Veröffentlichung über eigene Homepage, eigene Datenbank, etc.",predefined,13,56,"22,41 %","23,21 %",„G04Q02=G04Q02A01ORG04Q02A03“
+G04Q04,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q04A05,"Traditionelle Fachpublikationen (ClosedAccess):Veröffentlichung als wissenschaftliche Artikel in Fachzeitschriften, Sammelwerken, Monographien, etc.",predefined,48,56,"82,76 %","85,71 %",„G04Q02=G04Q02A01ORG04Q02A03“
+G04Q04,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q04A06,"Open-Access Fachpublikation:Veröffentlichung als wissenschaftlicher Artikel in Open-Access Fachzeitschriften, etc.",predefined,12,56,"20,69 %","21,43 %",„G04Q02=G04Q02A01ORG04Q02A03“
+G04Q04,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q04A07,Sonstiges,predefined,2,56,"3,45 %","3,57 %",„G04Q02=G04Q02A01ORG04Q02A03“
+G04Q04,Veröffentlichung,Wo werden Daten aus Ihrem Arbeitsbereich veröffentlicht?,G04Q04A08,[keine Antwort],N/A,2,N/A,"3,45 %",N/A,„G04Q02=G04Q02A01ORG04Q02A03“
+G04Q05,Veröffentlichung,"Was hindert Sie daran, Ihre Daten öffentlich zugänglich zu machen?",G04Q05A01,Unklare Vorgehensweise,predefined,40,104,"35,71 %","38,46 %",„G04Q02=G04Q02A02“
+G04Q05,Veröffentlichung,"Was hindert Sie daran, Ihre Daten öffentlich zugänglich zu machen?",G04Q05A02,Zeitmangel,predefined,52,104,"46,43 %","50,00 %",„G04Q02=G04Q02A02“
+G04Q05,Veröffentlichung,"Was hindert Sie daran, Ihre Daten öffentlich zugänglich zu machen?",G04Q05A03,Fehlende technische Infrastruktur,predefined,37,104,"33,04 %","35,58 %",„G04Q02=G04Q02A02“
+G04Q05,Veröffentlichung,"Was hindert Sie daran, Ihre Daten öffentlich zugänglich zu machen?",G04Q05A04,Keine Relevanz für meine Arbeit,predefined,45,104,"40,18 %","43,27 %",„G04Q02=G04Q02A02“
+G04Q05,Veröffentlichung,"Was hindert Sie daran, Ihre Daten öffentlich zugänglich zu machen?",G04Q05A05,Unklarheit über rechtliche Vorgaben,predefined,44,104,"39,29 %","42,31 %",„G04Q02=G04Q02A02“
+G04Q05,Veröffentlichung,"Was hindert Sie daran, Ihre Daten öffentlich zugänglich zu machen?",G04Q05A06,fehlende Rechte,predefined,18,104,"16,07 %","17,31 %",„G04Q02=G04Q02A02“
+G04Q05,Veröffentlichung,"Was hindert Sie daran, Ihre Daten öffentlich zugänglich zu machen?",G04Q05A07,Sonstiges,predefined,15,104,"13,39 %","14,42 %",„G04Q02=G04Q02A02“
+G04Q05,Veröffentlichung,"Was hindert Sie daran, Ihre Daten öffentlich zugänglich zu machen?",G04Q05A08,Außerhalb meiner Zuständigkeit,comment,4,104,"3,57 %","3,85 %",„G04Q02=G04Q02A02“
+G04Q05,Veröffentlichung,"Was hindert Sie daran, Ihre Daten öffentlich zugänglich zu machen?",G04Q05A09,[keine Antwort],N/A,8,N/A,"7,14 %",N/A,„G04Q02=G04Q02A02“
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A01,Datenorganisation und -strukturierung,predefined,99,176,"41,25 %","56,25 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A02,Langfristige Speicherung und Archivierung,predefined,107,176,"44,58 %","60,80 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A03,Sicherstellung der Datenqualität,predefined,66,176,"27,50 %","37,50 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A04,Metadaten-Erstellung und -pflege,predefined,49,176,"20,42 %","27,84 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A05,"Rechtliche Fragen (z.B. Datenschutz, Urheberrecht)",predefined,62,176,"25,83 %","35,23 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A06,ethische Fragen,predefined,8,176,"3,33 %","4,55 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A07,Zugang und Teilen von Daten mit anderen Forschenden,predefined,69,176,"28,75 %","39,20 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A08,Nutzung geeigneter Software und Tools,predefined,58,176,"24,17 %","32,95 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A09,Mangel an Schulungen oder Unterstützung im Datenmanagement,predefined,73,176,"30,42 %","41,48 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A10,Fehlende institutionelle Richtlinie oder Infrastruktur,predefined,65,176,"27,08 %","36,93 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A11,Fehlende Zeitressource,predefined,106,176,"44,17 %","60,23 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A12,Fehlendes Personal,predefined,61,176,"25,42 %","34,66 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A13,Sorge vor Fehlinterpretation bei der Veröffentlichung von „Rohdaten“,predefined,22,176,"9,17 %","12,50 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A14,Sonstiges ,predefined,7,176,"2,92 %","3,98 %",
+G05Q01,Herausforderungen & Erwartungshaltung,Welchen Herausforderungen begegnen Ihnen regelmäßig im Umgang mit Forschungsdaten?,G05Q01A15,[keine Antwort],N/A,64,N/A,"26,67 %",N/A,
+G05Q02,Herausforderungen & Erwartungshaltung,Wie bewerten Sie Ihre Kenntnisse im Bereich des Forschungsdatenmanagements?,G05Q02A01,Sehr gut,predefined,0,166,"0,00 %","0,00 %",
+G05Q02,Herausforderungen & Erwartungshaltung,Wie bewerten Sie Ihre Kenntnisse im Bereich des Forschungsdatenmanagements?,G05Q02A02,Gut,predefined,10,166,"4,17 %","6,02 %",
+G05Q02,Herausforderungen & Erwartungshaltung,Wie bewerten Sie Ihre Kenntnisse im Bereich des Forschungsdatenmanagements?,G05Q02A03,Ausreichend,predefined,40,166,"16,67 %","24,10 %",
+G05Q02,Herausforderungen & Erwartungshaltung,Wie bewerten Sie Ihre Kenntnisse im Bereich des Forschungsdatenmanagements?,G05Q02A04,Gering,predefined,86,166,"35,83 %","51,81 %",
+G05Q02,Herausforderungen & Erwartungshaltung,Wie bewerten Sie Ihre Kenntnisse im Bereich des Forschungsdatenmanagements?,G05Q02A05,Keine Kenntnisse,predefined,30,166,"12,50 %","18,07 %",
+G05Q02,Herausforderungen & Erwartungshaltung,Wie bewerten Sie Ihre Kenntnisse im Bereich des Forschungsdatenmanagements?,G05Q02A06,[keine Antwort],N/A,74,N/A,"30,83 %",N/A,
+G05Q03,Herausforderungen & Erwartungshaltung,Welche Unterstützung wünschen Sie sich im Umgang mit Forschungsdaten?,G05Q03A01,Schulungen und Workshops,predefined,101,174,"42,08 %","58,05 %",
+G05Q03,Herausforderungen & Erwartungshaltung,Welche Unterstützung wünschen Sie sich im Umgang mit Forschungsdaten?,G05Q03A01,Leitfäden und Best-Practice-Dokumente,predefined,128,174,"53,33 %","73,56 %",
+G05Q03,Herausforderungen & Erwartungshaltung,Welche Unterstützung wünschen Sie sich im Umgang mit Forschungsdaten?,G05Q03A01,"Technische Infrastruktur (z.B. Repositorien, Tools)",predefined,66,174,"27,50 %","37,93 %",
+G05Q03,Herausforderungen & Erwartungshaltung,Welche Unterstützung wünschen Sie sich im Umgang mit Forschungsdaten?,G05Q03A01,individuelle Beratungsangebote durch Datenmanagement-Expert:innen,predefined,48,174,"20,00 %","27,59 %",
+G05Q03,Herausforderungen & Erwartungshaltung,Welche Unterstützung wünschen Sie sich im Umgang mit Forschungsdaten?,G05Q03A01,Softwarelösungen für Datenorganisation und -analyse,predefined,70,174,"29,17 %","40,23 %",
+G05Q03,Herausforderungen & Erwartungshaltung,Welche Unterstützung wünschen Sie sich im Umgang mit Forschungsdaten?,G05Q03A01,Rechtliche Beratungsangebote zu Datenschutz und Urheberrech,predefined,43,174,"17,92 %","24,71 %",
+G05Q03,Herausforderungen & Erwartungshaltung,Welche Unterstützung wünschen Sie sich im Umgang mit Forschungsdaten?,G05Q03A01,Besseres Zeitmanagement,comment,3,174,"1,25 %","1,72 %",
+G05Q03,Herausforderungen & Erwartungshaltung,Welche Unterstützung wünschen Sie sich im Umgang mit Forschungsdaten?,G05Q03A01,Sonstiges,predefined,5,174,"2,08 %","2,87 %",
+G05Q03,Herausforderungen & Erwartungshaltung,Welche Unterstützung wünschen Sie sich im Umgang mit Forschungsdaten?,G05Q03A01,[keine Antwort],N/A,66,N/A,"27,50 %",N/A,
