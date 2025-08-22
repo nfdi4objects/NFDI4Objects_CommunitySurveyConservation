@@ -19,7 +19,11 @@ Die Abbildungen wurden mit [Canva](https://www.canva.com/) erstellt.
 - `Korrelation_Bedeutung_Kenntnisse_FDM`- Statistische Gegenüberstellung von Bedeutung und Kenntnissen im FDM
 - `Korrelation_Einrichtung_Fachbereiche`- Verteilung der teilnehmenden Einrichtungen und Fachbereiche
 - `Korrelation_Veroeffentlichung_Einrichungen`- Antworten zur Datenveröffentlichung nach Einrichtung verteilt
-- 
+- `Teilnehmende_Einrichtungen`- Verteilung der Teilnehmenden nach Einrichtungstyp
+- `Umfrage2025_Abgeleitete_Handlungsfelder_FDM_Verbesserung`- Zusammenfassung der aus der Community-Umfrage abgeleiteten Handlungsfelder für die Weiterentwicklung des Forschungsdatenamangements in der Konservierung-Restaurierung
+- `Veroeffentlichung_restaurierungsbezogenerDaten`- Veröffentlichung restaurierungsbezogener Daten
+- `Verwendete_Vokabulare` - Von den Teilnehmenden verwendete kontrollierte Vokabulare
+- `Verwendung_KontrollierterVokabulare`- Verwendung kontrollierter Vokabularen in der restauratorischen Praxis
 ## Nachnutzung
 Alle Abbildungen stehen unter der Lizenz **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 Bitte zitieren Sie die Abbildungen über das zugehörige GitHub-Repository (DOI via Zenodo sobald verfügbar). 
