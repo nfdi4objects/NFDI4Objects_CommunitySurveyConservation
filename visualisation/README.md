@@ -18,6 +18,8 @@ Die Abbildungen wurden mit [Canva](https://www.canva.com/) erstellt.
 - `Kenntnis_Standards`- Kenntnis über allgemeine technische Standards im FDM
 - `Korrelation_Bedeutung_Kenntnisse_FDM`- Statistische Gegenüberstellung von Bedeutung und Kenntnissen im FDM
 - `Korrelation_Einrichtung_Fachbereiche`- Verteilung der teilnehmenden Einrichtungen und Fachbereiche
+- `Korrelation_Veroeffentlichung_Einrichungen`- Antworten zur Datenveröffentlichung nach Einrichtung verteilt
+- 
 ## Nachnutzung
 Alle Abbildungen stehen unter der Lizenz **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 Bitte zitieren Sie die Abbildungen über das zugehörige GitHub-Repository (DOI via Zenodo sobald verfügbar). 
