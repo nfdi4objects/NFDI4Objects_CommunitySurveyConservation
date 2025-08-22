@@ -13,7 +13,11 @@ Die Abbildungen wurden mit [Canva](https://www.canva.com/) erstellt.
 - `Bedeutung_FDM_Restaurierung`- Bedeutung von FDM in der  Konservierung-Restaurierung
 - `Dokumentation_Maßnahmen.png`- Dokumentation von Konservierungs- und Restaurierungsmaßnahmen
 - `Gewuenschte_Unterstuetungsformen`- Gewünschte Unterschtützungsformen
-- 
+- `Herausforderungen_FDM`- Herausforderungen im Umgang mit Forschungsdaten in der Konservierung-Restaurierung
+- `Inhalt_Restaurierungsdokumentation`- Wichtige Daten in der Konservierung-Restaurierung
+- `Kenntnis_Standards`- Kenntnis über allgemeine technische Standards im FDM
+- `Korrelation_Bedeutung_Kenntnisse_FDM`- Statistische Gegenüberstellung von Bedeutung und Kenntnissen im FDM
+- `Korrelation_Einrichtung_Fachbereiche`- Verteilung der teilnehmenden Einrichtungen und Fachbereiche
 ## Nachnutzung
 Alle Abbildungen stehen unter der Lizenz **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 Bitte zitieren Sie die Abbildungen über das zugehörige GitHub-Repository (DOI via Zenodo sobald verfügbar). 
