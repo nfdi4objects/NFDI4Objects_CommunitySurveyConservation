@@ -11,7 +11,7 @@ Die Abbildungen wurden mit [Canva](https://www.canva.com/) erstellt.
 
 ## Dateien (Dateiname - Inhaltstitel)
 - `Bedeutung_FDM_Restaurierung.png`- Bedeutung von FDM in der  Konservierung-Restaurierung
-- 
+- `Dokumentation_Maßnahmen.png`- Dokumentation von Konservierungs- und Restaurierungsmaßnahmen
 ## Nachnutzung
 Alle Abbildungen stehen unter der Lizenz **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 Bitte zitieren Sie die Abbildungen über das zugehörige GitHub-Repository (DOI via Zenodo sobald verfügbar). 
