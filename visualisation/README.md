@@ -24,6 +24,7 @@ Die Abbildungen wurden mit [Canva](https://www.canva.com/) erstellt.
 - `Veroeffentlichung_restaurierungsbezogenerDaten`- Veröffentlichung restaurierungsbezogener Daten
 - `Verwendete_Vokabulare` - Von den Teilnehmenden verwendete kontrollierte Vokabulare
 - `Verwendung_KontrollierterVokabulare`- Verwendung kontrollierter Vokabularen in der restauratorischen Praxis
+- `Vorhandensein_InternerSchreibanweisungen`- Interne Schreibanweisungen/Leitfaden für Umgang mit Daten
 ## Nachnutzung
 Alle Abbildungen stehen unter der Lizenz **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 Bitte zitieren Sie die Abbildungen über das zugehörige GitHub-Repository (DOI via Zenodo sobald verfügbar). 
