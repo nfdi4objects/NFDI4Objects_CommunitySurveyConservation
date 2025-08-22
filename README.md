@@ -35,9 +35,9 @@ Ziel der Umfrage war es, ein Meinungsbild aus der Restaurierungscommunity zu ver
 - Nathaly Witt (LEIZA)
 
 **Review & Editing**:
-- Gudrun Schwenk – Interessengemeinschaft für semantische Datenverarbeitung e.V. (IGSD)/ Verbundprojekt SODa
-- Eva Schoel – Restaurierungszentrum Düsseldorf (RED)
-- Lasse Mempel-Länger – Leibniz-Zentrum für Archäologie (LEIZA)
+- Gudrun Schwenk – (IGSD/SODa)
+- Eva Schoel – (RED)
+- Lasse Mempel-Länger – (LEIZA)
 
 ---
 
