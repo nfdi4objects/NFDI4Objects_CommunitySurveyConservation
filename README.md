@@ -50,7 +50,6 @@ Das bedeutet: Sie dürfen die Daten frei nutzen, teilen und weiterverarbeiten,
 solange die Quelle genannt wird.
 
 ## Zitation
-Dieses Repository befindet sich derzeit noch im Aufbau.  
-Die finale, zitierbare Version mit DOI wird nach Abschluss der Arbeiten via [Zenodo](https://zenodo.org/) veröffentlicht.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17047278.svg)](https://doi.org/10.5281/zenodo.17047278) 
 
-Bis dahin verwenden Sie bitte die GitHub-URL als Referenz.
+Kristina Fischer. (2025). nfdi4objects/NFDI4Objects_CommunitySurveyConservation: N4O CommunitySurvey Conservation v1.0 - First public version (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17047278
