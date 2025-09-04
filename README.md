@@ -27,7 +27,7 @@ Ziel der Umfrage war es, ein Meinungsbild aus der Restaurierungscommunity zu ver
 - Reiner Göldner – Landesamt für Archäologie Sachsen (LfA)/ Verband der Landesarchäologen (VLA)
 
 **Statistische Auswertung und Datenaufbereitung**: 
-- Kristina Fischer (LEIZA)
+- Kristina Fischer (LEIZA) [!https://orcid.org/0009-0005-3991-1025] 
   
 ### Whitepaper (work in progress):
 **Autoren**:
@@ -52,4 +52,4 @@ solange die Quelle genannt wird.
 ## Zitation
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17047278.svg)](https://doi.org/10.5281/zenodo.17047278) 
 
-Kristina Fischer. (2025). nfdi4objects/NFDI4Objects_CommunitySurveyConservation: N4O CommunitySurvey Conservation v1.0 - First public version (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17047278
+Fischer, Kristina (2025). N4O Community Survey Conservation - Data (v1.0). GitHub/Zenodo. https://doi.org/10.5281/zenodo.17047278
