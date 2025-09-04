@@ -21,24 +21,23 @@ Ziel der Umfrage war es, ein Meinungsbild aus der Restaurierungscommunity zu ver
 - Hannah Ahlfänger – Restaurierungszentrum Düsseldorf (RED)
 - Jessica Preiß – Generaldirektion kulturelles Erbe (GDKE) 
 - Johanne Lefeldt – Generaldirektion kulturelles Erbe (GDKE) 
-- Kristina Fischer – Leibniz-Zentrum für Archäologie (LEIZA)
-- Lasse Mempel-Länger – Leibniz-Zentrum für Archäologie (LEIZA)
-- Nathaly Witt – Leibniz-Zentrum für Archäologie (LEIZA)
+- Kristina Fischer – Leibniz-Zentrum für Archäologie (LEIZA) [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0005-3991-1025) 
+- Lasse Mempel-Länger – Leibniz-Zentrum für Archäologie (LEIZA) [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0001-5183-1635) 
+- Nathaly Witt – Leibniz-Zentrum für Archäologie (LEIZA) [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0003-1063-0727) 
 - Reiner Göldner – Landesamt für Archäologie Sachsen (LfA)/ Verband der Landesarchäologen (VLA)
 
 **Statistische Auswertung und Datenaufbereitung**: 
-- Kristina Fischer (LEIZA) [!https://orcid.org/0009-0005-3991-1025] 
+- Kristina Fischer (LEIZA) [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0005-3991-1025) 
   
 ### Whitepaper (work in progress):
 **Autoren**:
-- Kristina Fischer (LEIZA)
-- Nathaly Witt (LEIZA)
+- Kristina Fischer (LEIZA) [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0005-3991-1025) 
+- Nathaly Witt (LEIZA) [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0003-1063-0727) 
 
 **Review & Editing**:
 - Gudrun Schwenk – (IGSD/SODa)
 - Eva Schoel – (RED)
-- Lasse Mempel-Länger – (LEIZA)
-
+- Lasse Mempel-Länger – (LEIZA) [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0001-5183-1635) 
 ---
 
 ## Hinweis zur Nachnutzung
