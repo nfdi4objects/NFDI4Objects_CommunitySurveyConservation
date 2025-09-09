@@ -27,9 +27,9 @@ Die Abbildungen wurden mit [Canva](https://www.canva.com/) erstellt.
 - `Vorhandensein_InternerSchreibanweisungen`- Interne Schreibanweisungen/Leitfaden für Umgang mit Daten
 ## Nachnutzung
 Alle Abbildungen stehen unter der Lizenz **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-Bitte zitieren Sie die Abbildungen über das zugehörige GitHub-Repository (DOI via Zenodo sobald verfügbar). 
+Bitte zitieren Sie die Abbildungen über das zugehörige GitHub-Repository. 
 ### Empfohlene Form
 - Für das gesamte Set:  
-  > Kristina Fischer (2025): *Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025*. GitHub/Zenodo. DOI: [tba].
+  > Kristina Fischer (2025): *Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025*. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 - Für eine einzelne Abbildung:
-  > Kristina Fischer (2025): *[Inhaltstitel der Abbildung]*, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: [tba].
+  > Kristina Fischer (2025): *[Inhaltstitel der Abbildung]*, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
