@@ -30,6 +30,6 @@ Alle Abbildungen stehen unter der Lizenz **Creative Commons Attribution 4.0 Inte
 Bitte zitieren Sie die Abbildungen über das zugehörige GitHub-Repository. 
 ### Empfohlene Form
 - Für das gesamte Set:  
-  > Kristina Fischer (2025): *Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025*. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
+  > Fischer, Kristina (2025): *Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025*. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
 - Für eine einzelne Abbildung:
-  > Kristina Fischer (2025): *[Inhaltstitel der Abbildung]*, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
+  > Fischer, Kristina (2025): *[Inhaltstitel der Abbildung]*, in: Visualisierungen zur NFDI4Objects Community-Umfrage Konservierung-Restaurierung 2025. GitHub/Zenodo. DOI: https://doi.org/10.5281/zenodo.17047278.
