@@ -52,3 +52,11 @@ solange die Quelle genannt wird.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17047278.svg)](https://doi.org/10.5281/zenodo.17047278) 
 
 Fischer, Kristina (2025). N4O Community Survey Conservation - Data (v1.0). GitHub/Zenodo. https://doi.org/10.5281/zenodo.17047278
+
+---
+
+## Förderung
+Die Materialien entstanden in dem von der DFG geförderten Projekt "NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte.
+
+Gefördert durch die Deutsche Forschungsgemeinschaft (DFG) – [501836407](https://gepris.dfg.de/gepris/projekt/501836407)
+
