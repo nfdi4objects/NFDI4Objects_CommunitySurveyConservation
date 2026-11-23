@@ -49,9 +49,9 @@ Das bedeutet: Sie dürfen die Daten frei nutzen, teilen und weiterverarbeiten,
 solange die Quelle genannt wird.
 
 ## Zitation
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17047278.svg)](https://doi.org/10.5281/zenodo.17047278) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17047277.svg)](https://doi.org/10.5281/zenodo.17047277) 
 
-Fischer, Kristina (2025). N4O Community Survey Conservation - Data (v1.0). GitHub/Zenodo. https://doi.org/10.5281/zenodo.17047278
+Fischer, Kristina (2025). N4O Community Survey Conservation - Data (v1.0). GitHub/Zenodo. https://doi.org/10.5281/zenodo.17047277
 
 ---
 
