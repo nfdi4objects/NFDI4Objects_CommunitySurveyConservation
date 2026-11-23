@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-title: "Community Survey Conservation"
+title: "NFDI4Objects Community Survey Conservation"
 message: "If you use this software, please cite it as below."
-type: software
+type: data
 authors:
   - family-names: Fischer
     given-names: Kristina
     orcid: "https://orcid.org/0009-0005-3991-1025"
     affiliation: "Leibniz-Zentrum für Archäologie"
 license: CC BY 4.0
-repository-code: "https://github.com/nfdi4objects/NFDI4Objects_CommunitySurveyConservation"
+repository-code: "https://doi.org/10.5281/zenodo.17047277"
